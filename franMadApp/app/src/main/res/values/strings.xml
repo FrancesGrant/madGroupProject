@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">franMadApp</string>
+    <string name="continue_app">Continue</string>
+    <string name="back_app">Back</string>
+</resources>
